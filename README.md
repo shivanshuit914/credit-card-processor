@@ -1,5 +1,7 @@
 # Credit card API
 
+Used spring boot, Maven and H2.
+
 ```shell script
 # To run tests
 ./mvnw test
